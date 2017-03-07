@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
+    format="7"
+    timestamp="145434164153609"
+    token="7947505634721167641" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/res/resources-debug.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cf3504226422097430d555d3e6706c1c5dd621c8/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-10.2.0_114c61bbf7e7a8bae51b0afd4f6aa7f2493fd14d/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-10.2.0_b9eaf7e490fc917dde5987a3193a344ef00d8626/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-10.2.0_ef5f4378c7c0d64667fc7fbc38f809a0ca2db640/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.2.0_495688cd187a4c39811f47d3a016fa505f085fa3/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-10.2.0_5ab7a4ffa5dfdfbfd922f86f07ce80922abd2c97/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-10.2.0_88ec074f7f64721fac2de2dc9e5fe74f19ff3701/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.2.0_c0b6c345e13d62ef4d95f90ee960178637ab320a/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_5bfdb99f0471fdf8a539f450f93c0e4cc6304f88/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-10.2.0_ca6d245c5b41b900a302df0d2f2c82b5f49d1d93/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_7471a0bcf72f92f70b4c9ad51212ab7b7248134b/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.2.0_186c6e95de656487f58c42bcef129b8c171ee23d/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-10.2.0_fd827f6d918ecb04723887621d1dea9f77c53668/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-10.2.0_39b1397cb4101090b959336407f0db2f84b7eff1/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.2.0_b00410ffda2ecc4d9b6fcf67eea5c4a7aa343b94/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.2.0_bfacfb0836d3f64ccd1ab3f5cb127386faeba9df/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.2.0_a4c921eb19b74f9d2aeb9fa1a090583b7dd5c5f6/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-10.2.0_77fb690306ca9400aaaeb5165dee1416b010fe3b/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-10.2.0_b2a0e38cd91514c235dde40c0583e8cf5aa4f665/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-10.2.0_85f3b22c8f103d77c3195f7d1a8b4ce9e5eefc84/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-10.2.0_2b604bc8ccd6014a9d8c4186c8b9b7e92073086f/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.2.0_3fdfef2d1b94204e5a3871a806e2fa7ae74785e4/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-10.2.0_51d83d2d4b8e6a6a496bc92aa83c4d911b45e95e/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-10.2.0_f7b957e683f95e99ab3c64bef083148e4d369faa/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.2.0_e2c38258dfeff8ceb9830f14c9b06f106b1b3fec/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-10.2.0_44042dcaede660b7a4f798e43d76bb30e29abadf/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_19c552c9720372f7103b6ca545899a803015593d/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.2.0_2816ee94479f9c2e4c2fdf69130bb363e9450ef2/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-10.2.0_65a651844285c7452b053b7c58e0dfa4137d914d/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-v4-impl-10.2.0_6c455de24d961bba6a3f6b04180bb0ca2d8c59d7/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_840b61fb212806e45670cfe4e89ea5bc457db85f/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_98515102a24fb8d701755be3f5a98008d020b93f/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-10.2.0_0bc5b17a1e97f737e48287db2b96d27a54696bef/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-10.2.0_9e42c33fe5e9205455c6046d41a28e762145e1ff/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-10.2.0_1f58d898f324fc56f60f6fedb7f5775b6485642f/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-10.2.0_9ed933ebb54a807a72ce7ff7d953bf2c70940ad4/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-10.2.0_a2dc63298f71a47e3ddef7e2944ecb39546c78d1/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-10.2.0_608056ff3fff0cbc126ca9f5ca182b4788f875d5/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-10.2.0_5cd5e2e4eb2dd297ebc414eeebc491ab78f84929/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.0.0_358bfd33a03a2195b2124e2470522b95ec4eb42c/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-10.2.0_9ce95b42fb6e1498a386d05b3c823c20d4bdde1b/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-10.2.0_1f0edbb9a1d3a470874b679f59773170e2cd7bf8/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_157161d1941b9155c0b6cb997763cb48eba614d8/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-10.2.0_45d53ada18a9c696f3029e398156372e4786328f/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-10.2.0_e4545fa9206d05ffb0a2b01c828aa7e01f56b769/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_d809c6dfbb6c55614a6668372a9f9c48232b7514/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_71b19e2e5ce2ba3cc07605f5744649736a940b8a/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.2.0_b62b4c304eafde449f6af61e95590af1b9f30e34/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-10.2.0_eb16884b4b41ffbeae8ce14d08748c7041b7c324/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.2.0_e2297170d27aa7cc06dca554562bdfa139c73c91/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_334bc8c1b07920553e3fed937ef9dc17f1670c96/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_b236ab77f3c4ef39946f5b8d973dcc43f5da2815/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.2.0_5fc68fc92d868de161a4d263937e43083cd8f5d5/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-appindexing-10.2.0_a2d81fb2f05de450acf4f0ee81d00575b69fda2c/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_574f3e4ebfa453817434598284af773a131e71e1/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-10.2.0_e920013e5b3560ee11aa67dfb5942a16b2cb1dd2/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-10.2.0_b272d0c5e7a412bb185cc0c01d4e29c5bf37d2e4/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-10.2.0_ef2b42d027e73d749e72c90b94847801cf470e60/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-10.2.0_27adce61391e0f9bd143bf2a93f25d0e7faaa9f2/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.2.0_6a3b7895941a5870355421ca4602ebffda31dfe8/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.2.0_4e4d2dbbc2cc8409f5705007a4a930b2f5c3382d/classes.dex"
+        type="DEX" />
+
+    <build timestamp="145434164153609" >
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/res/resources-debug.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cf3504226422097430d555d3e6706c1c5dd621c8/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-10.2.0_114c61bbf7e7a8bae51b0afd4f6aa7f2493fd14d/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-10.2.0_b9eaf7e490fc917dde5987a3193a344ef00d8626/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-10.2.0_ef5f4378c7c0d64667fc7fbc38f809a0ca2db640/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.2.0_495688cd187a4c39811f47d3a016fa505f085fa3/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-10.2.0_5ab7a4ffa5dfdfbfd922f86f07ce80922abd2c97/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-10.2.0_88ec074f7f64721fac2de2dc9e5fe74f19ff3701/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.2.0_c0b6c345e13d62ef4d95f90ee960178637ab320a/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_5bfdb99f0471fdf8a539f450f93c0e4cc6304f88/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-10.2.0_ca6d245c5b41b900a302df0d2f2c82b5f49d1d93/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_7471a0bcf72f92f70b4c9ad51212ab7b7248134b/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.2.0_186c6e95de656487f58c42bcef129b8c171ee23d/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-10.2.0_fd827f6d918ecb04723887621d1dea9f77c53668/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-10.2.0_39b1397cb4101090b959336407f0db2f84b7eff1/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.2.0_b00410ffda2ecc4d9b6fcf67eea5c4a7aa343b94/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.2.0_bfacfb0836d3f64ccd1ab3f5cb127386faeba9df/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.2.0_a4c921eb19b74f9d2aeb9fa1a090583b7dd5c5f6/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-10.2.0_77fb690306ca9400aaaeb5165dee1416b010fe3b/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-10.2.0_b2a0e38cd91514c235dde40c0583e8cf5aa4f665/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-10.2.0_85f3b22c8f103d77c3195f7d1a8b4ce9e5eefc84/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-10.2.0_2b604bc8ccd6014a9d8c4186c8b9b7e92073086f/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.2.0_3fdfef2d1b94204e5a3871a806e2fa7ae74785e4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-10.2.0_51d83d2d4b8e6a6a496bc92aa83c4d911b45e95e/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-10.2.0_f7b957e683f95e99ab3c64bef083148e4d369faa/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.2.0_e2c38258dfeff8ceb9830f14c9b06f106b1b3fec/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-10.2.0_44042dcaede660b7a4f798e43d76bb30e29abadf/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_19c552c9720372f7103b6ca545899a803015593d/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.2.0_2816ee94479f9c2e4c2fdf69130bb363e9450ef2/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-10.2.0_65a651844285c7452b053b7c58e0dfa4137d914d/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-v4-impl-10.2.0_6c455de24d961bba6a3f6b04180bb0ca2d8c59d7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_840b61fb212806e45670cfe4e89ea5bc457db85f/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_98515102a24fb8d701755be3f5a98008d020b93f/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-10.2.0_0bc5b17a1e97f737e48287db2b96d27a54696bef/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-10.2.0_9e42c33fe5e9205455c6046d41a28e762145e1ff/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-10.2.0_1f58d898f324fc56f60f6fedb7f5775b6485642f/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-10.2.0_9ed933ebb54a807a72ce7ff7d953bf2c70940ad4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-10.2.0_a2dc63298f71a47e3ddef7e2944ecb39546c78d1/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-10.2.0_608056ff3fff0cbc126ca9f5ca182b4788f875d5/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-10.2.0_5cd5e2e4eb2dd297ebc414eeebc491ab78f84929/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.0.0_358bfd33a03a2195b2124e2470522b95ec4eb42c/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-10.2.0_9ce95b42fb6e1498a386d05b3c823c20d4bdde1b/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-10.2.0_1f0edbb9a1d3a470874b679f59773170e2cd7bf8/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_157161d1941b9155c0b6cb997763cb48eba614d8/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-10.2.0_45d53ada18a9c696f3029e398156372e4786328f/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-10.2.0_e4545fa9206d05ffb0a2b01c828aa7e01f56b769/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_d809c6dfbb6c55614a6668372a9f9c48232b7514/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_71b19e2e5ce2ba3cc07605f5744649736a940b8a/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-10.2.0_b62b4c304eafde449f6af61e95590af1b9f30e34/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-10.2.0_eb16884b4b41ffbeae8ce14d08748c7041b7c324/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.2.0_e2297170d27aa7cc06dca554562bdfa139c73c91/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_334bc8c1b07920553e3fed937ef9dc17f1670c96/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_b236ab77f3c4ef39946f5b8d973dcc43f5da2815/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.2.0_5fc68fc92d868de161a4d263937e43083cd8f5d5/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-appindexing-10.2.0_a2d81fb2f05de450acf4f0ee81d00575b69fda2c/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_574f3e4ebfa453817434598284af773a131e71e1/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-10.2.0_e920013e5b3560ee11aa67dfb5942a16b2cb1dd2/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-10.2.0_b272d0c5e7a412bb185cc0c01d4e29c5bf37d2e4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-10.2.0_ef2b42d027e73d749e72c90b94847801cf470e60/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-10.2.0_27adce61391e0f9bd143bf2a93f25d0e7faaa9f2/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.2.0_6a3b7895941a5870355421ca4602ebffda31dfe8/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/amanpreetsingh/Work/Android/Projects/AR/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.2.0_4e4d2dbbc2cc8409f5705007a4a930b2f5c3382d/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
